@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
-* text=auto
+*.psd filter=lfs diff=lfs merge=lfs -text
+Assets/Assets/karting-club-lider-outdoor-race-track-ready/source/LiderEarly63/LiderEarly631.fbx filter=lfs diff=lfs merge=lfs -text
+
